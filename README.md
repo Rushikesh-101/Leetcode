@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rushikesh-101/Leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Rushikesh-101/Leetcode/tree/master/0071-simplify-path) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Rushikesh-101/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rushikesh-101/Leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Rushikesh-101/Leetcode/tree/master/0071-simplify-path) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Rushikesh-101/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
