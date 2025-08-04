@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rushikesh-101/Leetcode/tree/master/0035-search-insert-position) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rushikesh-101/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rushikesh-101/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/Rushikesh-101/Leetcode/tree/master/0169-majority-element) |
 | [0503-next-greater-element-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Rushikesh-101/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
@@ -69,4 +70,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Rushikesh-101/Leetcode/tree/master/0278-first-bad-version) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rushikesh-101/Leetcode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rushikesh-101/Leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rushikesh-101/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rushikesh-101/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
