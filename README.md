@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rushikesh-101/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Rushikesh-101/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Rushikesh-101/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Rushikesh-101/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1646-kth-missing-positive-number](https://github.com/Rushikesh-101/Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Monotonic Stack
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rushikesh-101/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Rushikesh-101/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Design
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Rushikesh-101/Leetcode/tree/master/0874-backspace-string-compare) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Rushikesh-101/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Greedy
 |  |
 | ------- |
