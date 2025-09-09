@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rushikesh-101/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Rushikesh-101/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Rushikesh-101/Leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Rushikesh-101/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Rushikesh-101/Leetcode/tree/master/0463-island-perimeter) |
 | [0503-next-greater-element-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -115,11 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Rushikesh-101/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Rushikesh-101/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Rushikesh-101/Leetcode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Rushikesh-101/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Rushikesh-101/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Rushikesh-101/Leetcode/tree/master/0695-max-area-of-island) |
 ## Matrix
@@ -128,11 +131,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Rushikesh-101/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Rushikesh-101/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Rushikesh-101/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Rushikesh-101/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Rushikesh-101/Leetcode/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Rushikesh-101/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Rushikesh-101/Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
