@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Rushikesh-101/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rushikesh-101/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Rushikesh-101/Leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Rushikesh-101/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0874-backspace-string-compare](https://github.com/Rushikesh-101/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rushikesh-101/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Rushikesh-101/Leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Rushikesh-101/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Rushikesh-101/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Two Pointers
 |  |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/Rushikesh-101/Leetcode/tree/master/0542-01-matrix) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Rushikesh-101/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
