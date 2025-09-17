@@ -17,7 +17,7 @@ class Solution:
         else:
             
             queue = deque([root])   # root not iterable so [root]
-            result = []
+            result = deque()
             while queue:
                 print("entered")
                 
@@ -34,7 +34,9 @@ class Solution:
                     if node.right:
                         queue.append(node.right)
                     
-                result.insert(0,arr)
+                result.appendleft(arr)
+
+            result = list(result)
             
 
             return result
