@@ -15,7 +15,7 @@ class Solution:
             return arr
         
         else:
-
+            
             queue = deque([root])   # root not iterable so [root]
             result = []
             while queue:
@@ -34,9 +34,7 @@ class Solution:
                     if node.right:
                         queue.append(node.right)
                     
-                result.append(arr)
-            fResult = []
-            while result:
-                fResult.append(result.pop())
+                result.insert(0,arr)
+            
 
-            return fResult
+            return result
