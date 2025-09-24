@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Rushikesh-101/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/Rushikesh-101/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Rushikesh-101/Leetcode/tree/master/0860-design-circular-queue) |
+| [0969-number-of-recent-calls](https://github.com/Rushikesh-101/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Rushikesh-101/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Two Pointers
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Rushikesh-101/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/Rushikesh-101/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Rushikesh-101/Leetcode/tree/master/0860-design-circular-queue) |
+| [0969-number-of-recent-calls](https://github.com/Rushikesh-101/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Tree
 |  |
 | ------- |
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rushikesh-101/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Rushikesh-101/Leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
