@@ -5,7 +5,7 @@ class Solution:
         right = 1
         minque = deque()
         maxque = deque()
-        res = []
+        res = deque()
         minque.append(left)
         maxque.append(left)
         while left <= len(nums)-2 and right <= len(nums)-1 : 
@@ -41,7 +41,9 @@ class Solution:
             # differences of min and max of window
 
             if nums[maxque[0]] - nums[minque[0]] <= limit:
-                res.append((left,right))
+                while res and right - left > res[-1]:
+                    res.pop()
+                res.append(right-left)
                 right += 1
             
             else:
@@ -52,15 +54,12 @@ class Solution:
                     right += 1
                     left += 1
                     
-
-        maxVal = 0
-        while res:
-            x,y = res.pop()
-            if y-x > maxVal:
-                maxVal = (y-x)
-        
-        maxVal += 1
-        
+        print("this is res : ",res)
+        if res:
+            maxVal = res[0]+1
+        else:
+            return 1
+       
         return maxVal
 
 
