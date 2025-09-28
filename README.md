@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Rushikesh-101/Leetcode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Rushikesh-101/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Rushikesh-101/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0463-island-perimeter](https://github.com/Rushikesh-101/Leetcode/tree/master/0463-island-perimeter) |
 | [0503-next-greater-element-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rushikesh-101/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Rushikesh-101/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Rushikesh-101/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rushikesh-101/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Rushikesh-101/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0859-design-circular-deque](https://github.com/Rushikesh-101/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Rushikesh-101/Leetcode/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/Rushikesh-101/Leetcode/tree/master/0969-number-of-recent-calls) |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Rushikesh-101/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Rushikesh-101/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
