@@ -7,5 +7,5 @@ class Solution:
         while size :
             heapq.heappop(num)
             size -= 1
-        res = heapq.heappop(num)
-        return -res
+       
+        return -heapq.heappop(num)
