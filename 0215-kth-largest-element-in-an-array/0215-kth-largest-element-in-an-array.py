@@ -7,4 +7,4 @@ class Solution:
 
         return heapq.heappop(nums)
 
-        __import__ ("atexit").register(lambda: open("display_runtime.txt","w").write("0"))
+        
