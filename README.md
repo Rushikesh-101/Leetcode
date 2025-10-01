@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Rushikesh-101/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1036-rotting-oranges](https://github.com/Rushikesh-101/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Rushikesh-101/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1127-last-stone-weight](https://github.com/Rushikesh-101/Leetcode/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Rushikesh-101/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Rushikesh-101/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Rushikesh-101/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rushikesh-101/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1127-last-stone-weight](https://github.com/Rushikesh-101/Leetcode/tree/master/1127-last-stone-weight) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Rushikesh-101/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
