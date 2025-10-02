@@ -14,17 +14,20 @@ class Solution:
             
         print("\n this is freq dict : ", count)
 
-    # Creating priority heap from dict keys and values --- O(n)
 
+    # Creating priority heap from dict keys and values --- O(n)
         freqHeap = []
+
         for key, value in count.items() :
             heapq.heappush(freqHeap,(value,key))
             if len(freqHeap) > k :
                 heapq.heappop(freqHeap)
         print("\n Top k freq elements left in heap : ", freqHeap)
         
-    # Append freqHeap tasks into res array
+
+    # Append freqHeap tasks into res array --- O(log n)
         res = []
+        
         while freqHeap: 
              priority, val = heapq.heappop(freqHeap)
              res.append(val)
