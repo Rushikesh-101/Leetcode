@@ -17,16 +17,21 @@ class Solution:
             fast = fast.next.next
 
             if slow == fast :
-                if slow == static:
-                    return static
-                else : 
+                slow = head
+                while slow != fast : 
                     slow = slow.next
-                while slow != fast:
-                    if slow == static :
-                        return static
-                    else :
-                        slow = slow.next
-                static = static.next
+                    fast = fast.next
+                return slow
+                # if slow == static:
+                #     return static
+                # else : 
+                #     slow = slow.next
+                # while slow != fast:
+                #     if slow == static :
+                #         return static
+                #     else :
+                #         slow = slow.next
+                # static = static.next
         return None
             
             
