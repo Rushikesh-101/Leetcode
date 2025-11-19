@@ -3,12 +3,12 @@ class Solution:
         
         adj = {}
         for i in range(1,n+1):
-            adj[i] = []
+            adj[i] = set()
 
         for enemies in dislikes:
             a,b = enemies
-            adj[a].append(b)
-            adj[b].append(a)
+            adj[a].add(b)
+            adj[b].add(a)
         
         print("\n Printing adj list : ", adj)
         
