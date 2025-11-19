@@ -13,11 +13,7 @@ class Solution:
 
 
 
-
-        color = [] # is 0 indexed 
-
-        for i in range(n):
-            color.append(-1)
+        color = [-1]*(n+1)
         
         
         queue = deque()
