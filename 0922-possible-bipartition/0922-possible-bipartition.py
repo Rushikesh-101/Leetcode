@@ -7,7 +7,7 @@ class Solution:
             adj[a].append(b)
             adj[b].append(a)
         
-        print("\n Printing adj list : ", adj)
+
         
 
 
