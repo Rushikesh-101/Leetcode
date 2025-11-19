@@ -30,19 +30,19 @@ class Solution:
                 color[i] = 0
 
 
-            while queue:
+                while queue:
 
-                node = queue.popleft()
+                    node = queue.popleft()
 
-                for neighbour in adj[node]:
+                    for neighbour in adj[node]:
 
-                    if color[neighbour-1] == -1:
-                        queue.append(neighbour)
-                        color[neighbour-1] = 1 - color[node-1]
+                        if color[neighbour-1] == -1:
+                            queue.append(neighbour)
+                            color[neighbour-1] = 1 - color[node-1]
+                        
+                        elif color[neighbour-1] == color[node-1]:
+                            return False
                     
-                    elif color[neighbour-1] == color[node-1]:
-                        return False
-                
         return True   
                     
 
