@@ -36,16 +36,12 @@ class Solution:
             while queue:
 
                 node = queue.popleft()
-                
-                if color[node-1] == 1:
-                    opp = 0
-                else:
-                    opp = 1
 
                 for neighbour in adj[node]:
+
                     if color[neighbour-1] == -1:
                         queue.append(neighbour)
-                        color[neighbour-1] = opp
+                        color[neighbour-1] = 1 - color[node-1]
                     
                     elif color[neighbour-1] == color[node-1]:
                         return False
