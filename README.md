@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Rushikesh-101/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Rushikesh-101/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rushikesh-101/Leetcode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Rushikesh-101/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Rushikesh-101/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rushikesh-101/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Rushikesh-101/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Rushikesh-101/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rushikesh-101/Leetcode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Rushikesh-101/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/Rushikesh-101/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Rushikesh-101/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Rushikesh-101/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Rushikesh-101/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rushikesh-101/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Rushikesh-101/Leetcode/tree/master/0695-max-area-of-island) |
+| [0801-is-graph-bipartite](https://github.com/Rushikesh-101/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Rushikesh-101/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rushikesh-101/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Dynamic Programming
@@ -327,5 +330,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/Rushikesh-101/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rushikesh-101/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
