@@ -1,14 +1,11 @@
 class Solution:
     def possibleBipartition(self, n: int, dislikes: List[List[int]]) -> bool:
         
-        adj = {}
-        for i in range(1,n+1):
-            adj[i] = set()
-
+        adj = defaultdict(list)
         for enemies in dislikes:
             a,b = enemies
-            adj[a].add(b)
-            adj[b].add(a)
+            adj[a].append(b)
+            adj[b].append(a)
         
         print("\n Printing adj list : ", adj)
         
