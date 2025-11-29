@@ -10,7 +10,6 @@ class Solution:
         old_array = lists
 
         def merge(headA, headB):
-            print("\n merger called !")
             currA = headA
             currB = headB
             dummy_node = ListNode(0)
@@ -51,20 +50,17 @@ class Solution:
             if array_len % 2 == 0:
 
                 for i in range(0, array_len, 2): # even LL in array
-                    print("\n entered this ")
-                    print("\n current i and i+1 : ", i, i+1)
                     new_array.append(merge(old_array[i],old_array[i+1]))
                 
             else:
 
                 for i in range(0, array_len-1, 2): # odd LL in array
-                    print("\n current i and i+1 : ", i, i+1)
                     new_array.append(merge(old_array[i],old_array[i+1]))
                 new_array.append(old_array[array_len-1])
 
 
             old_array = new_array
-            print("\n this is the updating lenght of old array : ", len(new_array))
+            
             
         if old_array:
             return old_array[0]
