@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/Rushikesh-101/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Rushikesh-101/Leetcode/tree/master/0860-design-circular-queue) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rushikesh-101/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Rushikesh-101/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## String
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Rushikesh-101/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Rushikesh-101/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rushikesh-101/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Rushikesh-101/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Rushikesh-101/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Greedy
 |  |
