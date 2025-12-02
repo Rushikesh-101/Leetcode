@@ -76,5 +76,5 @@ class Solution:
             return array
 
 
-
+    # Space complexity could be better if you split and add directly from original linked list instead of creating duplicates of sub
 
