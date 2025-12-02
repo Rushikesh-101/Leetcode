@@ -11,12 +11,7 @@ class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
         if not head :
             return None
-        # if not head.next:
-        #     clone = Node(head.val)
 
-        #     if head.random:
-        #         clone.random = Node(0)
-        #     return clone
 
 
         prev = head
