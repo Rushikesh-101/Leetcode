@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rushikesh-101/Leetcode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rushikesh-101/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0509-fibonacci-number](https://github.com/Rushikesh-101/Leetcode/tree/master/0509-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Rushikesh-101/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rushikesh-101/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Rushikesh-101/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Rushikesh-101/Leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Rushikesh-101/Leetcode/tree/master/0542-01-matrix) |
 ## Queue
 |  |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Rushikesh-101/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Rushikesh-101/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rushikesh-101/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Rushikesh-101/Leetcode/tree/master/0509-fibonacci-number) |
 ## Graph
 |  |
 | ------- |
@@ -388,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rushikesh-101/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Rushikesh-101/Leetcode/tree/master/0148-sort-list) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Rushikesh-101/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
