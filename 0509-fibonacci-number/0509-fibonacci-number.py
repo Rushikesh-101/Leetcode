@@ -28,7 +28,7 @@ class Solution:
 
         def recurr(x):
             if x in storage:
-                return storage[n]
+                return storage[x]
 
             if x == 0 or x == 1:
                 return 0 if x==0 else 1
