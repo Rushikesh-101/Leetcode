@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rushikesh-101/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Rushikesh-101/Leetcode/tree/master/0071-simplify-path) |
+| [0344-reverse-string](https://github.com/Rushikesh-101/Leetcode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Rushikesh-101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0874-backspace-string-compare](https://github.com/Rushikesh-101/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rushikesh-101/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Rushikesh-101/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rushikesh-101/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Rushikesh-101/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0344-reverse-string](https://github.com/Rushikesh-101/Leetcode/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/Rushikesh-101/Leetcode/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
