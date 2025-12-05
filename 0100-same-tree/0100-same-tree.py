@@ -18,9 +18,7 @@ class Solution:
             right = checkIdentical(p.right,q.right)
             left = checkIdentical(p.left,q.left)
 
-            if right and left:
-                return True
-            else:
-                return False
+            return left and right
             
         return checkIdentical(p,q)
+
