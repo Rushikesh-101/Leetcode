@@ -40,12 +40,8 @@ class Solution:
             left = minDepth(node.left)
             right = minDepth(node.right)
 
-            if left == 0 and right == 0 :
-                return 1 
-            if left == 0:
-                return 1 + right
-            if right == 0 :
-                return 1 + left
+            if left == 0 or right == 0:
+                return 1 + max(left,right)
             
             return 1 + min(left,right)
         
