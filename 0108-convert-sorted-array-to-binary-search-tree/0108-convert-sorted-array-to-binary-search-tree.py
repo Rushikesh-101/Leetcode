@@ -9,18 +9,30 @@ class Solution:
         
         arr = 1,2,3,4,5,6,7
 
-        def nextNode(left,right):
+        def nextNode(node,left,right):
             if left > right:
-                return None
+                return 
+            if left == right: 
+                node.val = nums[left]
+                return 
             
             mid = (left + right) // 2
+            print("\n this was left and right :", left, right)
+            print("\n this is mid :", mid)
+            node.val = nums[mid]
 
-            root = TreeNode(nums[mid])
-            root.left = nextNode(left, mid-1)
-            root.right = nextNode(mid+1, right)
-            return root
+            if left != mid :
+                node.left = TreeNode(0)
+                newRight = mid-1
+                nextNode(node.left,left,newRight)
             
-        return nextNode(0,len(nums)-1)
+            if right != mid :
+                node.right = TreeNode(0)
+                newLeft = mid+1
+                nextNode(node.right,newLeft,right)
 
+        root = TreeNode(0)
+        nextNode(root,0,len(nums)-1)
 
+        return root
 
