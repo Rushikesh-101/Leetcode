@@ -11,7 +11,8 @@ class Solution:
         if not root:
             return []
         def post(node,result):
-
+            if node is None :
+                return 
             if node.children :
                 for childNode in node.children:
                     post(childNode,result)
