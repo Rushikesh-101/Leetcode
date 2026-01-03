@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Rushikesh-101/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Rushikesh-101/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/Rushikesh-101/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0874-backspace-string-compare](https://github.com/Rushikesh-101/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rushikesh-101/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Rushikesh-101/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rushikesh-101/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Rushikesh-101/Leetcode/tree/master/0542-01-matrix) |
+| [0654-maximum-binary-tree](https://github.com/Rushikesh-101/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Rushikesh-101/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rushikesh-101/Leetcode/tree/master/0733-flood-fill) |
 | [0859-design-circular-deque](https://github.com/Rushikesh-101/Leetcode/tree/master/0859-design-circular-deque) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rushikesh-101/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/Rushikesh-101/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Rushikesh-101/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Math
 |  |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rushikesh-101/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Rushikesh-101/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/Rushikesh-101/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/Rushikesh-101/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Sorting
 |  |
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Rushikesh-101/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Rushikesh-101/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Rushikesh-101/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0654-maximum-binary-tree](https://github.com/Rushikesh-101/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Rushikesh-101/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Rushikesh-101/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1302-deepest-leaves-sum](https://github.com/Rushikesh-101/Leetcode/tree/master/1302-deepest-leaves-sum) |
@@ -406,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Rushikesh-101/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rushikesh-101/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Rushikesh-101/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0654-maximum-binary-tree](https://github.com/Rushikesh-101/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Rushikesh-101/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Rushikesh-101/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1302-deepest-leaves-sum](https://github.com/Rushikesh-101/Leetcode/tree/master/1302-deepest-leaves-sum) |
