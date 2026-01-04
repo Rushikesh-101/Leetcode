@@ -21,14 +21,16 @@ class Solution:
                 return True
             
             if node.left:
-                
-                left_val = binary(node.left, low, node.val)
-                
+                if node.val > node.left.val :
+                    left_val = binary(node.left, low, node.val)
+                else: 
+                    return False
 
             if node.right:
-                
-                right_val = binary(node.right, node.val, high)
-                
+                if node.val < node.right.val :
+                    right_val = binary(node.right, node.val, high)
+                else:
+                    return False
 
             if node.val == 6 :
                 print("\n left rcvd : ", left_val)
