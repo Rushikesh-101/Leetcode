@@ -16,6 +16,7 @@ class Solution:
 
             if n >= 1 :
                 first_way = climb(n-1)
+                
             dp[str(n)] = first_way + second_way
             return first_way + second_way
 
