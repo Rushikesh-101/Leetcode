@@ -6,11 +6,9 @@ class Solution:
         1 without last element
         '''
 
-        if len(nums) < 4:
+        if len(nums) < 3:
             lenght = len(nums)
-            if lenght == 3 :
-                return max(nums[0],nums[1],nums[2])
-            elif lenght == 2 :
+            if lenght == 2 :
                 return max(nums[0],nums[1])
             else:
                 return nums[0]
@@ -24,7 +22,7 @@ class Solution:
                 curr_val = max(nums[i]+last_2, last_1)
                 last_2 = last_1
                 last_1 = curr_val
-            return curr_val
+            return last_1
         
         with_first = climb(0,len(nums)-2)
         with_last = climb(1,len(nums)-1)
