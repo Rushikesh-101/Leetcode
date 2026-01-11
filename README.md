@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Rushikesh-101/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Rushikesh-101/Leetcode/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Rushikesh-101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/Rushikesh-101/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0874-backspace-string-compare](https://github.com/Rushikesh-101/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rushikesh-101/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Rushikesh-101/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rushikesh-101/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rushikesh-101/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Rushikesh-101/Leetcode/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/Rushikesh-101/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rushikesh-101/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Rushikesh-101/Leetcode/tree/master/0542-01-matrix) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/Rushikesh-101/Leetcode/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/Rushikesh-101/Leetcode/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/Rushikesh-101/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/Rushikesh-101/Leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Rushikesh-101/Leetcode/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/Rushikesh-101/Leetcode/tree/master/0740-delete-and-earn) |
