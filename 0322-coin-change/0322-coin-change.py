@@ -5,8 +5,7 @@ class Solution:
         '''
         DP = {}
         def demoni(x, amt):
-            if (x, amt) in DP:
-                return DP[(x, amt)]
+           
             
             if amt == 0 :
                 return 0
@@ -14,6 +13,8 @@ class Solution:
                 return float('inf')
 
             for i in range(x,len(coins)):
+                if (i, amt) in DP:
+                    return DP[(i, amt)]
                 # not take :
                 result = demoni(i+1,amt)
 
