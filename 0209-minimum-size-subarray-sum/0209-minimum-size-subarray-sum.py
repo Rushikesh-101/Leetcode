@@ -1,6 +1,11 @@
 class Solution:
     def minSubArrayLen(self, target: int, nums: List[int]) -> int:
         
+        '''
+         > Below is the horrific code i had written when i had just started leetcode.
+         > Leaving it like this as a reference to analyse my progress.
+         > Pls refer to the newer code below this ( probably still ugly )
+         > And most importantly DON'T JUDGE😐
 
         if len(nums) == 1 and nums[0] < target:
             return 0
@@ -85,3 +90,38 @@ class Solution:
                 return val
             else:
                 return 0
+
+
+            ''' 
+
+        def min_subarray(nums,target):
+
+            if len(nums) == 0 :
+                return 0
+            
+            left = 0 
+            right = 0
+            total = 0
+            size = float('inf')
+
+
+            for right in range(len(nums)):
+
+                total += nums[right]
+                
+                while total >= target:
+                    size = min(size, (right-left)+1)
+                    total -= nums[left]
+                    left += 1
+
+             
+            return 0 if size == float('inf') else  size
+        
+        return min_subarray(nums,target)
+
+                        
+                    
+                    
+        # Add right
+        # while greater than : reduce from left + check condition and update global
+        # check condition and update global 
