@@ -7,18 +7,13 @@ class Solution:
         def temp():
 
             mono = []
-            result = []
+            result = [0]*len(temperatures)
             for i in range(len(temperatures)):
-                result.append(0)
-
-            for i in range(len(temperatures)):
-                if not mono:
-                    mono.append(i)
-                else:
-                    while mono and temperatures[mono[-1]] < temperatures[i]:
-                        pop = mono.pop()
-                        result[pop] = i-pop
-                    mono.append(i)
+                
+                while mono and temperatures[mono[-1]] < temperatures[i]:
+                    pop = mono.pop()
+                    result[pop] = i-pop
+                mono.append(i)
             
             return result
         
