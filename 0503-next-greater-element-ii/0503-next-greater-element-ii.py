@@ -1,58 +1,37 @@
 class Solution:
     def nextGreaterElements(self, nums: List[int]) -> List[int]:
-        Arr = []
-        nxtGrt = []
-        for x in nums:
-            Arr.append(x)
-            nxtGrt.append(-1)
-        for x in nums:
-            Arr.append(x)
-            nxtGrt.append(-1)
-
-        print("\n this is nums twice: ", Arr)
-
-        compStack = []
         
-        y = 0
-        for x in Arr:
+        def NGE2():
+            result = []
+            for i in range(len(nums)):
+                result.append(-1)
 
-            if not compStack:
-                compStack.append(x)
-                nxtGrt[y] = -1
-                y+=1
-                # print("\nif loop : printing nxtGrt:", nxtGrt)
-                # print("\n this is the tack : ", compStack)
-            
-            elif compStack and x > compStack[-1]:
-                z = y-1
-                while compStack and x > compStack[-1]:
-                    if compStack[-1] == Arr[z]:
-                        compStack.pop()
-                        nxtGrt[z] = x
-                        z-=1
+            mono = []
+
+            for i in range (len(nums)):
+                if not mono:
+                    mono.append(i)
+
+                else :
+                    while mono and nums[mono[-1]] < nums[i]:
+                        popped = mono.pop()
+                        result[popped] = nums[i]
+                    mono.append(i)
+                
+            if mono:
+                for i in range (len(nums)):
+                    if not mono:
+                        mono.append(i)
+
                     else :
-                        z-=1
+                        while mono and nums[mono[-1]] < nums[i]:
+                            popped = mono.pop()
+                            result[popped] = nums[i]
+                        mono.append(i)
 
-                compStack.append(x)
-                # while z != y:
-                #     nxtGrt[z] = x
-                #     z+=1
-                y+=1
-                # print("\n elif loop : printing nxtGrt:", nxtGrt)
-                # print("\n this is the tack : ", compStack)
+            return result
 
-            else:
-                compStack.append(x)
-                nxtGrt[y] = -1
-                y+=1
-                # print("\n else loop : printing nxtGrt:", nxtGrt)
-                # print("\n this is the tack : ", compStack)
-        a = len(nums)
-        result = nxtGrt[0:a]
-        return result
-
-        
-
+        return NGE2()
 
 
 
