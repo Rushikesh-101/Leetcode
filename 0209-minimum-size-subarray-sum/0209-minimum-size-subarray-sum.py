@@ -122,6 +122,4 @@ class Solution:
                         
                     
                     
-        # Add right
-        # while greater than : reduce from left + check condition and update global
-        # check condition and update global 
+        
