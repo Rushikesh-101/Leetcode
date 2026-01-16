@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Rushikesh-101/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rushikesh-101/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rushikesh-101/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2104-sum-of-subarray-ranges](https://github.com/Rushikesh-101/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2454-next-greater-element-iv](https://github.com/Rushikesh-101/Leetcode/tree/master/2454-next-greater-element-iv) |
 ## Array
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rushikesh-101/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Rushikesh-101/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rushikesh-101/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2104-sum-of-subarray-ranges](https://github.com/Rushikesh-101/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Rushikesh-101/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2454-next-greater-element-iv](https://github.com/Rushikesh-101/Leetcode/tree/master/2454-next-greater-element-iv) |
 ## Monotonic Stack
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Rushikesh-101/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Rushikesh-101/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rushikesh-101/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2104-sum-of-subarray-ranges](https://github.com/Rushikesh-101/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2454-next-greater-element-iv](https://github.com/Rushikesh-101/Leetcode/tree/master/2454-next-greater-element-iv) |
 ## Math
 |  |
