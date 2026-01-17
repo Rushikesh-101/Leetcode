@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/Rushikesh-101/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Rushikesh-101/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2454-next-greater-element-iv](https://github.com/Rushikesh-101/Leetcode/tree/master/2454-next-greater-element-iv) |
+| [2574-left-and-right-sum-differences](https://github.com/Rushikesh-101/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Rushikesh-101/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Rushikesh-101/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/Rushikesh-101/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Rushikesh-101/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Search Tree
 |  |
 | ------- |
