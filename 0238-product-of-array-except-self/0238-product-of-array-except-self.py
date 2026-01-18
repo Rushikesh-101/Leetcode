@@ -7,7 +7,6 @@ class Solution:
         
         for i in range(1,n):
             answer[i] = answer[i-1]*nums[i-1]
-            print(i,answer[i])
         
         suffix = 1
         for i in range(n-2,-1,-1):
