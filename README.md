@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rushikesh-101/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Rushikesh-101/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rushikesh-101/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1991-find-the-middle-index-in-array](https://github.com/Rushikesh-101/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Rushikesh-101/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Rushikesh-101/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2454-next-greater-element-iv](https://github.com/Rushikesh-101/Leetcode/tree/master/2454-next-greater-element-iv) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Rushikesh-101/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Rushikesh-101/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/Rushikesh-101/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Rushikesh-101/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Rushikesh-101/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Search Tree
 |  |
