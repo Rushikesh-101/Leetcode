@@ -2,8 +2,7 @@ class Solution:
     def makeGood(self, s: str) -> str:
         
         '''
-        Intuition : 
-        '''
+
         def good_string():
             stack = []
             for char in s :
@@ -20,7 +19,25 @@ class Solution:
            
         return good_string()
 
+        '''
+        # Or use ascii value difference
+        # Lower case and upper case ascii diff of same char is 32
 
+        def is_good():
+
+            stack = []
+
+            for char in s:
+                if not stack:
+                    stack.append(char)
+                elif abs(ord(stack[-1]) - ord(char)) == 32:
+                    stack.pop() 
+                else:
+                    stack.append(char)
+
+            return "".join(stack)
+
+        return is_good()
             
                 
 
