@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Rushikesh-101/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Rushikesh-101/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Rushikesh-101/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Rushikesh-101/Leetcode/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Rushikesh-101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Rushikesh-101/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0874-backspace-string-compare](https://github.com/Rushikesh-101/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Rushikesh-101/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Rushikesh-101/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Rushikesh-101/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/Rushikesh-101/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Rushikesh-101/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Rushikesh-101/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Rushikesh-101/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Rushikesh-101/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rushikesh-101/Leetcode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Rushikesh-101/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Rushikesh-101/Leetcode/tree/master/0509-fibonacci-number) |
 ## Graph
 |  |
