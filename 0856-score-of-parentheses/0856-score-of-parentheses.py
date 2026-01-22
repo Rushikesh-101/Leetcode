@@ -16,13 +16,14 @@ class Solution:
                         while stack and stack[-1].isdigit():
                             num += int(stack.pop())
                         stack.append(str(num))
+
                     elif stack[-1] == '(':
                         stack.pop()
                         num = 1
                         while stack and stack[-1].isdigit():
                             num += int(stack.pop()) 
                         stack.append(str(num))
-            print(stack)
+    
             return int(stack.pop())
         
         return para_olympics()
