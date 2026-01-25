@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Rushikesh-101/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Rushikesh-101/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/Rushikesh-101/Leetcode/tree/master/1127-last-stone-weight) |
+| [1162-as-far-from-land-as-possible](https://github.com/Rushikesh-101/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Rushikesh-101/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rushikesh-101/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Rushikesh-101/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Rushikesh-101/Leetcode/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Rushikesh-101/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Rushikesh-101/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1162-as-far-from-land-as-possible](https://github.com/Rushikesh-101/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Rushikesh-101/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1302-deepest-leaves-sum](https://github.com/Rushikesh-101/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Rushikesh-101/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Rushikesh-101/Leetcode/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Rushikesh-101/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Rushikesh-101/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1162-as-far-from-land-as-possible](https://github.com/Rushikesh-101/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Rushikesh-101/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1765-map-of-highest-peak](https://github.com/Rushikesh-101/Leetcode/tree/master/1765-map-of-highest-peak) |
 ## Union Find
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Rushikesh-101/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rushikesh-101/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/Rushikesh-101/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1162-as-far-from-land-as-possible](https://github.com/Rushikesh-101/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 ## Queue
 |  |
 | ------- |
