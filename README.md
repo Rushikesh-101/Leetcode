@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Rushikesh-101/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Rushikesh-101/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Rushikesh-101/Leetcode/tree/master/0394-decode-string) |
+| [0433-minimum-genetic-mutation](https://github.com/Rushikesh-101/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/Rushikesh-101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Rushikesh-101/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0856-score-of-parentheses](https://github.com/Rushikesh-101/Leetcode/tree/master/0856-score-of-parentheses) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Rushikesh-101/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Rushikesh-101/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Rushikesh-101/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0433-minimum-genetic-mutation](https://github.com/Rushikesh-101/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/Rushikesh-101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Rushikesh-101/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0690-employee-importance](https://github.com/Rushikesh-101/Leetcode/tree/master/0690-employee-importance) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Rushikesh-101/Leetcode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Rushikesh-101/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rushikesh-101/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0433-minimum-genetic-mutation](https://github.com/Rushikesh-101/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/Rushikesh-101/Leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Rushikesh-101/Leetcode/tree/master/0542-01-matrix) |
 | [0617-merge-two-binary-trees](https://github.com/Rushikesh-101/Leetcode/tree/master/0617-merge-two-binary-trees) |
