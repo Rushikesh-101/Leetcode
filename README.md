@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Rushikesh-101/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/Rushikesh-101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Rushikesh-101/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0752-open-the-lock](https://github.com/Rushikesh-101/Leetcode/tree/master/0752-open-the-lock) |
 | [0856-score-of-parentheses](https://github.com/Rushikesh-101/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0874-backspace-string-compare](https://github.com/Rushikesh-101/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rushikesh-101/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Rushikesh-101/Leetcode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Rushikesh-101/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rushikesh-101/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0752-open-the-lock](https://github.com/Rushikesh-101/Leetcode/tree/master/0752-open-the-lock) |
 | [0859-design-circular-deque](https://github.com/Rushikesh-101/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Rushikesh-101/Leetcode/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Rushikesh-101/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rushikesh-101/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0690-employee-importance](https://github.com/Rushikesh-101/Leetcode/tree/master/0690-employee-importance) |
 | [0740-delete-and-earn](https://github.com/Rushikesh-101/Leetcode/tree/master/0740-delete-and-earn) |
+| [0752-open-the-lock](https://github.com/Rushikesh-101/Leetcode/tree/master/0752-open-the-lock) |
 | [0904-fruit-into-baskets](https://github.com/Rushikesh-101/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Rushikesh-101/Leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Rushikesh-101/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rushikesh-101/Leetcode/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/Rushikesh-101/Leetcode/tree/master/0752-open-the-lock) |
 | [0801-is-graph-bipartite](https://github.com/Rushikesh-101/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/Rushikesh-101/Leetcode/tree/master/0922-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/Rushikesh-101/Leetcode/tree/master/0994-rotting-oranges) |
