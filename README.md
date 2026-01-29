@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Rushikesh-101/Leetcode/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/Rushikesh-101/Leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Rushikesh-101/Leetcode/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0257-binary-tree-paths](https://github.com/Rushikesh-101/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Rushikesh-101/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Rushikesh-101/Leetcode/tree/master/0344-reverse-string) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rushikesh-101/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Rushikesh-101/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rushikesh-101/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Rushikesh-101/Leetcode/tree/master/0112-path-sum) |
+| [0126-word-ladder-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0130-surrounded-regions](https://github.com/Rushikesh-101/Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Rushikesh-101/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Rushikesh-101/Leetcode/tree/master/0200-number-of-islands) |
@@ -668,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0113-path-sum-ii) |
+| [0126-word-ladder-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0257-binary-tree-paths](https://github.com/Rushikesh-101/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Rushikesh-101/Leetcode/tree/master/0494-target-sum) |
 ## String Matching
