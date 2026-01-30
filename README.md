@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rushikesh-101/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Rushikesh-101/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Rushikesh-101/Leetcode/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/Rushikesh-101/Leetcode/tree/master/0091-decode-ways) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rushikesh-101/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0126-word-ladder-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rushikesh-101/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Rushikesh-101/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rushikesh-101/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rushikesh-101/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Rushikesh-101/Leetcode/tree/master/0239-sliding-window-maximum) |
