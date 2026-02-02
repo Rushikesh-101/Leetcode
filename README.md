@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Rushikesh-101/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rushikesh-101/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rushikesh-101/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/Rushikesh-101/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Rushikesh-101/Leetcode/tree/master/0994-rotting-oranges) |
 | [1014-k-closest-points-to-origin](https://github.com/Rushikesh-101/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Rushikesh-101/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Rushikesh-101/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rushikesh-101/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Rushikesh-101/Leetcode/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/Rushikesh-101/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/Rushikesh-101/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/Rushikesh-101/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rushikesh-101/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rushikesh-101/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/Rushikesh-101/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rushikesh-101/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/Rushikesh-101/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/Rushikesh-101/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Sorting
 |  |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rushikesh-101/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rushikesh-101/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rushikesh-101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0973-k-closest-points-to-origin](https://github.com/Rushikesh-101/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/Rushikesh-101/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2454-next-greater-element-iv](https://github.com/Rushikesh-101/Leetcode/tree/master/2454-next-greater-element-iv) |
 ## Counting
@@ -578,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rushikesh-101/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rushikesh-101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Rushikesh-101/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/Rushikesh-101/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/Rushikesh-101/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Rushikesh-101/Leetcode/tree/master/1127-last-stone-weight) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Rushikesh-101/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -623,10 +628,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rushikesh-101/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rushikesh-101/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Rushikesh-101/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/Rushikesh-101/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Rushikesh-101/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/Rushikesh-101/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
