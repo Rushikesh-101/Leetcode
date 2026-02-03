@@ -3,7 +3,7 @@ class Solution:
 
 
         # HOW TO OPTIMISE THIS ??? 
-        
+
         def reverse():
             stack = []
             word = ''
@@ -26,6 +26,26 @@ class Solution:
                     sentence += ' '
 
             return sentence
+        
+        return reverse()
+
+
+        # Possibily optimal approach
+        def reverse():
+            sentence =''
+            word = ''
+            for c in range(len(s)):
+                if s[c] == ' ':
+                    if word:
+                        sentence = word + ' ' + sentence
+                        word = ''
+                elif c == len(s)-1 and s[c] != ' ':
+                      word += s[c]
+                      sentence = word + ' ' + sentence 
+                else:
+                    word += s[c]
+
+            return sentence[:len(sentence)-1]
         
         return reverse()
         
