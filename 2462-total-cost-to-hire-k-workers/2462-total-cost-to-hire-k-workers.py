@@ -2,7 +2,6 @@ class Solution:
     def totalCost(self, costs: List[int], k: int, candidates: int) -> int:
         
         def bad_description():
-            print(len(costs))
             l = -1 
             r = len(costs)
             hip = []
@@ -18,9 +17,10 @@ class Solution:
                     heapq.heappush(hip,(costs[r],r))
                 elif l == r:
                     heapq.heappush(hip,(costs[l],l))
-            
-            print(len(hip))
-            
+                
+                else:
+                    break
+
 
             for _ in range(k):
                 pop = heapq.heappop(hip)
