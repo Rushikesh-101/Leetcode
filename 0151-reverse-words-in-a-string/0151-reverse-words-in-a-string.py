@@ -1,5 +1,9 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
+
+
+        # HOW TO OPTIMISE THIS ??? 
+        
         def reverse():
             stack = []
             word = ''
