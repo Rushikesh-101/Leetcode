@@ -4,10 +4,13 @@ class Solution:
         i = 0
         total = 0
         while truckSize and i < len(boxTypes):
-            for j in range(boxTypes[i][0]):
-                if truckSize == 0:
-                    return total
-                truckSize -= 1
-                total += boxTypes[i][1]
+            if truckSize == 0:
+                return total
+            if boxTypes[i][0] <= truckSize:
+                total += boxTypes[i][0]*boxTypes[i][1]
+                truckSize -= boxTypes[i][0]
+            else:
+                total += boxTypes[i][1]*truckSize
+                truckSize = 0
             i += 1
         return total
