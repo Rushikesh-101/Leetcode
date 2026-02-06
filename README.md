@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rushikesh-101/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Rushikesh-101/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rushikesh-101/Leetcode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Rushikesh-101/Leetcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Rushikesh-101/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rushikesh-101/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Rushikesh-101/Leetcode/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/Rushikesh-101/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Rushikesh-101/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Rushikesh-101/Leetcode/tree/master/0169-majority-element) |
