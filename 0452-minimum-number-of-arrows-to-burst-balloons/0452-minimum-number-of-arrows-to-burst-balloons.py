@@ -22,7 +22,6 @@ class Solution:
             if len(points) == 1:
                 return 1
             points.sort(key = lambda x : (x[0],x[1]))
-            print(points)
             left = points[0][0]
             right = points[0][1]
             arrows = 1
