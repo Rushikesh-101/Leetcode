@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Rushikesh-101/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rushikesh-101/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Rushikesh-101/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rushikesh-101/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/Rushikesh-101/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Rushikesh-101/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Rushikesh-101/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rushikesh-101/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Rushikesh-101/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Rushikesh-101/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rushikesh-101/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/Rushikesh-101/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Rushikesh-101/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Rushikesh-101/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Rushikesh-101/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rushikesh-101/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Rushikesh-101/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rushikesh-101/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rushikesh-101/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/Rushikesh-101/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2454-next-greater-element-iv](https://github.com/Rushikesh-101/Leetcode/tree/master/2454-next-greater-element-iv) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Rushikesh-101/Leetcode/tree/master/0860-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rushikesh-101/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Rushikesh-101/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rushikesh-101/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1710-maximum-units-on-a-truck](https://github.com/Rushikesh-101/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1792-maximum-average-pass-ratio](https://github.com/Rushikesh-101/Leetcode/tree/master/1792-maximum-average-pass-ratio) |
 ## Binary Search
