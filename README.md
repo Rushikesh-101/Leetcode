@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Rushikesh-101/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/Rushikesh-101/Leetcode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rushikesh-101/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Rushikesh-101/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rushikesh-101/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rushikesh-101/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/Rushikesh-101/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Rushikesh-101/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1603-running-sum-of-1d-array](https://github.com/Rushikesh-101/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Rushikesh-101/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Rushikesh-101/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1710-maximum-units-on-a-truck](https://github.com/Rushikesh-101/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1765-map-of-highest-peak](https://github.com/Rushikesh-101/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1792-maximum-average-pass-ratio](https://github.com/Rushikesh-101/Leetcode/tree/master/1792-maximum-average-pass-ratio) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Rushikesh-101/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Rushikesh-101/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rushikesh-101/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Rushikesh-101/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rushikesh-101/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/Rushikesh-101/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2454-next-greater-element-iv](https://github.com/Rushikesh-101/Leetcode/tree/master/2454-next-greater-element-iv) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rushikesh-101/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Rushikesh-101/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rushikesh-101/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Rushikesh-101/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1710-maximum-units-on-a-truck](https://github.com/Rushikesh-101/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1792-maximum-average-pass-ratio](https://github.com/Rushikesh-101/Leetcode/tree/master/1792-maximum-average-pass-ratio) |
 ## Binary Search
