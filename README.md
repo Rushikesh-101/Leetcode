@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rushikesh-101/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Rushikesh-101/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rushikesh-101/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Rushikesh-101/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Rushikesh-101/Leetcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Rushikesh-101/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rushikesh-101/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Rushikesh-101/Leetcode/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Rushikesh-101/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/Rushikesh-101/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rushikesh-101/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rushikesh-101/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Rushikesh-101/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Rushikesh-101/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Rushikesh-101/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Rushikesh-101/Leetcode/tree/master/0091-decode-ways) |
