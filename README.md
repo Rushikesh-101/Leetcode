@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Rushikesh-101/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rushikesh-101/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Rushikesh-101/Leetcode/tree/master/0509-fibonacci-number) |
+| [0670-maximum-swap](https://github.com/Rushikesh-101/Leetcode/tree/master/0670-maximum-swap) |
 | [0973-k-closest-points-to-origin](https://github.com/Rushikesh-101/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/Rushikesh-101/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/Rushikesh-101/Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Rushikesh-101/Leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Rushikesh-101/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rushikesh-101/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0670-maximum-swap](https://github.com/Rushikesh-101/Leetcode/tree/master/0670-maximum-swap) |
 | [0860-lemonade-change](https://github.com/Rushikesh-101/Leetcode/tree/master/0860-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rushikesh-101/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Rushikesh-101/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
