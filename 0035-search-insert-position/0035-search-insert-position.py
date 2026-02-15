@@ -1,40 +1,29 @@
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
         
-        left = 0
-        right = len(nums)-1
-        middle = (left + right)//2
-        value = nums[middle]
-        
-        while left <= right :
+        def insert():
+                
+            l = 0
+            r = len(nums)-1
+            end = len(nums)-1
 
-            middle = (left + right)//2
-            value = nums[middle]
+            while l<=r:
+                mid = l + (r-l)//2 # to avoid integer overflow
 
-            if value == target :
-                return middle
-
-            elif value < target :
-
-                left = middle + 1 
-
-            else :
-
-                right = middle - 1 
-
-        if value > target and middle == 0 :
-            return 0 
-
-        elif value > target and middle != 0 :
-            return middle 
-
-        elif value < target and middle == 0 :
-            return 1 
-
-        elif value < target and middle != 0 :
-            return middle + 1
-
-
-
-
+                if nums[mid] == target:
+                    return mid
+                elif nums[mid] < target:
+                    l = mid+1
+                else:
+                    r = mid-1
+            if nums[mid] == target :
+                return mid
+            if target > nums[mid]:
+                return mid+1
+            else:
+                if mid == 0:
+                    return 0
+                return mid
+            
+        return insert()
         
