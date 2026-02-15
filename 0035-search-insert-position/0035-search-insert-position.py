@@ -21,8 +21,6 @@ class Solution:
             if target > nums[mid]:
                 return mid+1
             else:
-                if mid == 0:
-                    return 0
                 return mid
             
         return insert()
