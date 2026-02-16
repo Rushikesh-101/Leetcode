@@ -24,8 +24,6 @@ class Solution:
                 else :
                     right = middle - 1
 
-            print("\n first BS worked and this is the middle :", middle)
-
 
             # now we have middle == target
 
@@ -39,7 +37,6 @@ class Solution:
             while left <= right :
 
                 mid = (left + right)//2
-                print("\n this is mid before error:", mid)
 
                 if nums[mid] == target :
                     
@@ -52,8 +49,6 @@ class Solution:
                 else :
                     right = mid -1
                     
-            print("\nthis is the resultL",resultL)
-            print("\nthis is the mid",mid)
 
             if nums[resultL] != target:
                 INDEX[0] = -1
@@ -82,8 +77,6 @@ class Solution:
                 else :
                     left = mid +1
                     
-            print("\nthis is the resultL",resultR)
-            print("\nthis is the mid",mid)
 
             if nums[resultR] != target:
                 INDEX[1] = -1
