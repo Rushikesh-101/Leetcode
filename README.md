@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Rushikesh-101/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Rushikesh-101/Leetcode/tree/master/0994-rotting-oranges) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Rushikesh-101/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rushikesh-101/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1014-k-closest-points-to-origin](https://github.com/Rushikesh-101/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Rushikesh-101/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1036-rotting-oranges](https://github.com/Rushikesh-101/Leetcode/tree/master/1036-rotting-oranges) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Rushikesh-101/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Rushikesh-101/Leetcode/tree/master/0704-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Rushikesh-101/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rushikesh-101/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/Rushikesh-101/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2454-next-greater-element-iv](https://github.com/Rushikesh-101/Leetcode/tree/master/2454-next-greater-element-iv) |
 ## Interactive
