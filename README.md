@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Rushikesh-101/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rushikesh-101/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rushikesh-101/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rushikesh-101/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2104-sum-of-subarray-ranges](https://github.com/Rushikesh-101/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Rushikesh-101/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2454-next-greater-element-iv](https://github.com/Rushikesh-101/Leetcode/tree/master/2454-next-greater-element-iv) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1673-find-the-most-competitive-subsequence](https://github.com/Rushikesh-101/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1710-maximum-units-on-a-truck](https://github.com/Rushikesh-101/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1792-maximum-average-pass-ratio](https://github.com/Rushikesh-101/Leetcode/tree/master/1792-maximum-average-pass-ratio) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rushikesh-101/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Rushikesh-101/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Binary Search
 |  |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rushikesh-101/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rushikesh-101/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Rushikesh-101/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rushikesh-101/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2454-next-greater-element-iv](https://github.com/Rushikesh-101/Leetcode/tree/master/2454-next-greater-element-iv) |
 ## Interactive
 |  |
