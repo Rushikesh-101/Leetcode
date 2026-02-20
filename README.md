@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rushikesh-101/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Rushikesh-101/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Rushikesh-101/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Rushikesh-101/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1603-running-sum-of-1d-array](https://github.com/Rushikesh-101/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Rushikesh-101/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Rushikesh-101/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Rushikesh-101/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rushikesh-101/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rushikesh-101/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Rushikesh-101/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1646-kth-missing-positive-number](https://github.com/Rushikesh-101/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rushikesh-101/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2454-next-greater-element-iv](https://github.com/Rushikesh-101/Leetcode/tree/master/2454-next-greater-element-iv) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Rushikesh-101/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Rushikesh-101/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1014-k-closest-points-to-origin](https://github.com/Rushikesh-101/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Rushikesh-101/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/Rushikesh-101/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2454-next-greater-element-iv](https://github.com/Rushikesh-101/Leetcode/tree/master/2454-next-greater-element-iv) |
 ## Counting
