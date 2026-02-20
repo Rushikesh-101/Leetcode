@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Rushikesh-101/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Rushikesh-101/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1710-maximum-units-on-a-truck](https://github.com/Rushikesh-101/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Rushikesh-101/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1765-map-of-highest-peak](https://github.com/Rushikesh-101/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1792-maximum-average-pass-ratio](https://github.com/Rushikesh-101/Leetcode/tree/master/1792-maximum-average-pass-ratio) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rushikesh-101/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rushikesh-101/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Rushikesh-101/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1646-kth-missing-positive-number](https://github.com/Rushikesh-101/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Rushikesh-101/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rushikesh-101/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2454-next-greater-element-iv](https://github.com/Rushikesh-101/Leetcode/tree/master/2454-next-greater-element-iv) |
 ## Interactive
