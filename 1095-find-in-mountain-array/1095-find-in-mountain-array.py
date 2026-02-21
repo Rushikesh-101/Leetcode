@@ -23,7 +23,6 @@ class Solution:
         def revbinarySearch(left,right):
             while left <= right:
                 mid = left + (right-left)//2
-                print(left,mid,right)
                 mid_val = mountainArr.get(mid)
                 if mid_val == target:
                     return mid
@@ -60,8 +59,7 @@ class Solution:
 
         first = binarySearch(0,pivot)
         second = revbinarySearch(pivot,end)
-        print(pivot)
-        print(first,second)
+
         
         if type(first) == int:
             return first
