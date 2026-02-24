@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rushikesh-101/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Rushikesh-101/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Rushikesh-101/Leetcode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Rushikesh-101/Leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rushikesh-101/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Rushikesh-101/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rushikesh-101/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Rushikesh-101/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Rushikesh-101/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Rushikesh-101/Leetcode/tree/master/0342-power-of-four) |
 ## Backtracking
