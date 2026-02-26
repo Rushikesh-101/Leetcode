@@ -24,7 +24,7 @@ class Solution:
                 
                 if count%3 != 0:
                     ans = ans | (1 << i) # using OR cause 1 has to be taken if exists in any
-            if ans >= 2**31:
+            if ans >= 2**31:    # This is because python has dynamic memory allocation, and doesnt interpret 31st bit as a sign bit
                 ans -= 2**32
             return ans
 
