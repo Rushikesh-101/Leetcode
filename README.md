@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/Rushikesh-101/Leetcode/tree/master/0860-design-circular-queue) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Rushikesh-101/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rushikesh-101/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/Rushikesh-101/Leetcode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Rushikesh-101/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## String
 |  |
