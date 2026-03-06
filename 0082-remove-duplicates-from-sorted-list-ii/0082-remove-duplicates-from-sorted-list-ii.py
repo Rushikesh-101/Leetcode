@@ -5,28 +5,32 @@
 #         self.next = next
 class Solution:
     def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        
-        curr = head  
-        freq = {}
-        while curr :
-            value = curr.val
-            if value in freq:
-                freq[value] += 1
-            else :
-                freq[value] = 1
-            curr = curr.next
-        print("printing freq : ", freq)
-        
-        curr = head
-        dummynode = ListNode(0)
-        dummynode.next = head
-        prev = dummynode
+        def deletion():
+            if not head:
+                return None
+            if not head.next:
+                return head
+                
+            dummyNode = ListNode(0)
+            dummyNode.next = head
 
-        while curr:
-            if curr.val in freq and freq[curr.val] > 1:
-                prev.next = curr.next
-                curr = curr.next
-            else:
-                prev = curr
-                curr = curr.next
-        return dummynode.next
+            curr = dummyNode
+
+            while curr.next:
+                nextt = curr.next
+                temp = nextt.next
+                if not nextt.next:
+                    return dummyNode.next
+                if nextt.val != temp.val:
+                    curr = curr.next
+                else:
+
+                    while temp and temp.val == nextt.val:
+                        temp = temp.next
+                        
+                    curr.next = temp
+            
+            return dummyNode.next
+        
+        return deletion()
+
