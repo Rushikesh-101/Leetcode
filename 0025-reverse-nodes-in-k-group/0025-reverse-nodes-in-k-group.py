@@ -5,43 +5,38 @@
 #         self.next = next
 class Solution:
     def reverseKGroup(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
+        if k==1:
+            return head
+        count = 0 
+        dummyNode = ListNode(0)
+        bfr = dummyNode
+        srt = head
+        end = dummyNode
+        bfr.next = srt
         
-        Dummy = ListNode(0)
-        Dummy.next = head
+        while srt:
+            for i in range(k):
+                if not end.next:
+                    return dummyNode.next
+                end = end.next
+            aft = end.next
 
-        before = Dummy
-        left = head
+            # reversing from srt to end
+            prev = srt
+            curr = srt.next
+            end.next = None
+            while curr:
+                temp = curr.next
+                curr.next = prev
+                prev = curr
+                curr = temp
+            bfr.next = end
+            srt.next = aft
 
-        right = head
+            # Reassigning pointers
+            bfr = srt
+            srt = bfr.next
+            end = bfr
 
-        for i in range(k-1):
-            right = right.next
-        after = right.next
-
-        while right != None :
-                prev = left
-                curr = left.next
-
-                while prev != right :
-                    temp = curr.next
-                    curr.next = prev
-                    prev = curr
-                    curr = temp
-                
-                left.next = after
-                before.next = prev
-
-                before = left
-                left = after
-                right = after
-                for i in range(k-1):
-                    if right :
-                        right = right.next
-                    else :
-                        break
-                if right :
-                    after = right.next
-                else : 
-                    break
+        return dummyNode.next
         
-        return Dummy.next
