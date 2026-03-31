@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rushikesh-101/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/Rushikesh-101/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Rushikesh-101/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1154-day-of-the-year](https://github.com/Rushikesh-101/Leetcode/tree/master/1154-day-of-the-year) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Rushikesh-101/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rushikesh-101/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/Rushikesh-101/Leetcode/tree/master/1544-make-the-string-great) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Rushikesh-101/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/Rushikesh-101/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/Rushikesh-101/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1154-day-of-the-year](https://github.com/Rushikesh-101/Leetcode/tree/master/1154-day-of-the-year) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rushikesh-101/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/Rushikesh-101/Leetcode/tree/master/1323-maximum-69-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Rushikesh-101/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
