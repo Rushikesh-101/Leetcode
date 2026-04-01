@@ -1,25 +1,18 @@
 class Solution:
     def reverseString(self, s: List[str]) -> None:
-        """
-        Do not return anything, modify s in-place instead.
-        """
         
-        def reverse(word,p1,p2):
+        def rev(arr):
+            l = 0
+            r = len(s)-1
 
-            if p1 >= p2 :
-                return word
-            temp = word[p1]
-            word[p1] = word[p2]
-            word[p2] = temp
+            while l < r:
+                temp = arr[l]
+                arr[l] = arr[r]
+                arr[r] = temp
 
-            p1 += 1
-            p2 -= 1
+                l += 1
+                r -= 1
+        
+            return arr
 
-            return reverse(word,p1,p2)
-
-
-     
-        p1 = 0
-        p2 = len(s)-1
-
-        return reverse(s,p1,p2)
+        return rev(s)
