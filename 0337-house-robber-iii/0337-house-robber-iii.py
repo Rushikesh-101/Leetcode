@@ -7,23 +7,23 @@
 class Solution:
     def rob(self, root: Optional[TreeNode]) -> int:
         
-        def chor(node):
-            if not node :
-                return 0,0
+        # based on take not take values
 
-            do_rob_left, dont_rob_left = chor(node.left)
-            do_rob_right, dont_rob_right = chor(node.right)
-
-            do_rob_node = dont_rob_right + dont_rob_left + node.val
-            dont_rob_node = max((do_rob_right + do_rob_left),(dont_rob_right+dont_rob_left),(do_rob_right + dont_rob_left),(do_rob_left+dont_rob_right))
-
-            return do_rob_node,dont_rob_node
-        
-        val1,val2 = chor(root)
-        return max(val1,val2)
-        
+        def robber(node):
+            if not node:
+                return (0,0)
             
+            else:
+                own_val = node.val 
+                take, nottake = node.val,0
 
+                right_take, right_not = robber(node.right)
 
+                left_take, left_not = robber(node.left)
 
-
+                take += (right_not + left_not)
+                nottake = max(right_take,right_not) + max(left_take, left_not)
+                return (take,nottake)
+        
+        take,nottake = robber(root)
+        return max(take,nottake)
