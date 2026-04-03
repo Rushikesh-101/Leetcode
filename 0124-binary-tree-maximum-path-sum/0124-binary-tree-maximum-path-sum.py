@@ -6,50 +6,36 @@
 #         self.right = right
 class Solution:
     def maxPathSum(self, root: Optional[TreeNode]) -> int:
+        max_path_sum = float('-inf')
+        def maxpath(node):
+            
+            if not node:
+                return 0
+            print("\n node val : ", node.val)
+            nonlocal max_path_sum
+
+            ret_val = node.val
+            total = node.val
+
+            right = maxpath(node.right)
+            left = maxpath(node.left)
+            print("\n vals : ", right, left)
+
+            # check if this node as pivot gives the highest
+            if right > 0:
+                total += right
+            if left > 0:
+                total += left
+            
+            max_path_sum = max(max_path_sum,total)
+
+            # calculate whats the maximum it can send up 
+            higher = max(right,left)
+
+            if higher > 0:
+                ret_val += higher
+            
+            return ret_val
         
-        ''' 
-        Solution :
-        for every parent child, get possible value from left and right
-        add both and its own value and check against global maximum
-        if greater, update
-
-        else, take max(leftchild, rightchild)
-        return that plus itself to its parent above.
-
-        '''
-        maximum = float('-inf')
-        def maxsum(node):
-            nonlocal maximum
-            right = 0
-            left = 0
-
-            if maximum < node.val:
-                maximum = node.val
-
-            if not node.right and not node.left:
-                return node.val
-            
-            if node.right:
-                right = maxsum(node.right)
-
-            if node.left:
-                left = maxsum(node.left)
-            
-            if right +left +node.val > maximum:
-                maximum = right+left+node.val
-            if right + node.val > maximum:
-                maximum = right + node.val
-            if left + node.val > maximum:
-                maximum = left + node.val
-            
-            if node.val + max(right,left) > node.val:
-                
-                return max(right,left)+node.val
-            else:
-                return node.val
-        
-        maxsum(root)
-        return maximum
-            
-            
-
+        maxpath(root)
+        return max_path_sum
